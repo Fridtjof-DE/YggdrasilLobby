@@ -1,0 +1,31 @@
+name: YggdrasilLobby
+version: ${project.version}-${timestamp}
+main: me.fridtjof.yggdrasillobby.YggdrasilLobby
+api-version: 1.19
+prefix: Yggdrasil
+authors: [Fridtjof_DE]
+description: Yggdrasil Lobby additions
+depend: [Yggdrasil, PuddingAPI, PlaceholderAPI]
+softdepend: [Plan]
+
+commands:
+  easteregg:
+    description: /easteregg
+  yggdrasillobby:
+    description: Some YggdrasilLobby commands.
+
+permissions:
+  yggdrasillobby.lobby.bypass_no_pvp:
+    description: Bypass no PvP in lobby.
+  yggdrasillobby.lobby.bypass_no_pve:
+    description: Bypass no PvE in lobby.
+  yggdrasillobby.lobby.bypass_no_item_dropping:
+    description: Bypass no item dropping in lobby.
+  yggdrasillobby.lobby.bypass_lobby_item_clearing:
+    description: Bypass item clearing in lobby.
+  yggdrasillobby.cmd.easteregg:
+    description: Use /easteregg.
+  yggdrasillobby.reload:
+    description: Reloads the plugin.
+  yggdrasillobby.info:
+    description: Info about the plugin.
