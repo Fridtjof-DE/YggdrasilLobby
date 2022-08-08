@@ -7,6 +7,6 @@
 [![bStats Players](https://img.shields.io/bstats/players/16063?style=flat-square)](https://bstats.org/plugin/bukkit/YggdrasilLobby/16063)
 [![bStats Server](https://img.shields.io/bstats/servers/16063?style=flat-square)](https://bstats.org/plugin/bukkit/YggdrasilLobby/16063)
 
-# <img src="https://github.com/Fridtjof-DE/YggdrasilLobby/blob/master/yggdrasil_lobby.png" data-canonical-src="https://github.com/Fridtjof-DE/YggdrasilLobby/blob/master/yggdrasil_lobby.png" width="32" height="32" /> YggdrasilLobby
+# <img src="https://github.com/Fridtjof-DE/YggdrasilLobby/blob/master/yggdrasil-lobby.png" data-canonical-src="https://github.com/Fridtjof-DE/YggdrasilLobby/blob/master/yggdrasil-lobby.png" width="32" height="32" /> YggdrasilLobby
 
 Yggdrasil lobby additions
