@@ -52,7 +52,7 @@ public final class YggdrasilLobby extends JavaPlugin {
         new EventManager(this);
         new CommandManager(this);
         new UpdateChecker(this, 81151, "yggdrasil.update");
-        new Metrics(this, 7954);
+        new Metrics(this, 16063);
 
         getServer().getMessenger().registerOutgoingPluginChannel(this, "BungeeCord");
     }
